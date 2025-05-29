@@ -12,7 +12,7 @@ QUENA_COLORS = {
     "quena_1": "tab:purple", "quena_2": "tab:brown", "quena_3": "tab:pink",
     "quena_4": "cyan",       
     "quena_5": "magenta",    
-    "quena_6": "olive",      
+    "quena_6": "olive",     
 }
 TEMPERED_FREQUENCIES = {
     'G': 391.995, 'A': 440.000, 'B': 493.883, 'C': 523.251,
